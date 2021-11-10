@@ -1,6 +1,6 @@
 # Custom Named Entity Recognition using SpaCy
 
-***
+
 
 The purpose of this project is to demonstrate the Custom Named Entity Recognition using SpaCy.
 
